@@ -1,0 +1,49 @@
+INTRODUCTION TO BLOCKCHAIN:
+-“Blockchain technology” is a transparent and freely accessible record which enables us to safely transfer the ownership of value using public-key encryption.
+-Blockchain technology uses a decentralized consensus mechanism to keep up the system, which means isn’t constrained by a bank, corporation, or government. 
+-Bigger the network develops and turns out to be progressively decentralized, it becomes more secure.
+-It has increased a great deal for consideration in an assortment of businesses like foundations and charities, E-Commerce and Financial Services.
+-In this technology, the data is continually accommodated into the database, which is stored in numerous locations and refreshed instantly and the records are open and verifiable. 
+-Since there’s no exact central location, it is harder to hack the information as it exists simultaneously in millions of locations.
+-Blockchain technology was invented in 2008
+WHY BLOCKCHAIN?:
+-A block is a record of new transactions. 
+-At the point when a block is completed, it’s added to the chain.
+- Bitcoin holders have a system key as the private password to the location on the chain, this is where their ownership is recorded.
+- Crypto-currency advocates like distributed storage without a middle man. 
+-You needn’t bother with a bank to confirm the exchange of cash or take a cut of the exchange.
+APPLICATIONS OF BLOCKCHAIN:
+
+Banks-
+-Maybe no industry stands to profit by coordinating Blockchain into its business activities more than banking. 
+-Money related establishments just work during business hours, a few days a week. 
+-If you do make your cheque deposit during business hours, the exchange can take 1-3 days to confirm because of the sheer volume of exchanges that banks need to settle.
+-But Blockhain runs continuously.
+-With Blockchain, banks also have the chance to exchange funds between institutions rapidly and safely.
+
+Healthcare-
+-Healthcare providers can use Blockchain to securely store their patient’s medical records.
+- At the point when a medical record is created and signed, it can be composed into the Blockchain, which gives patients confirmation and confidence that the record cannot be changed. 
+-These personal health records could be stored on the Blockchain with a private key, so that they are only available by specific people, thereby guaranteeing privacy.
+
+Supply Chain Use-
+-Suppliers can apply Blockchain to register the origins of materials which they have obtained. 
+-This would enable companies to confirm the realness of their items, along with thier wellbeing.
+
+Property Records-
+- A physical deed must be conveyed to a government representative at the nearby recording office, where is it manually gone into the county’s database. 
+-On account of a property dispute, cases to the property must be accommodated with the open file.
+-This procedure is simply expensive and tedious and also additionally loaded with human error, where every error makes tracking property possession less proficient. 
+-Blockchain can possibly eliminate the requirement for scanning documents and finding physical documents in a nearby recording office. 
+-On the off chance that property proprietorship is put away and confirmed on the Blockchain, proprietors can believe that their deed is exact and permanent.
+
+ADVANTAGES OF BLOCKCHAIN:
+-Improved accuracy by removing human involvement in verification
+
+-Cost reductions by eliminating third-party verification
+
+-Decentralization makes it harder to tamper with
+
+-Transactions are secure, private and efficient
+
+-Transparent technology
