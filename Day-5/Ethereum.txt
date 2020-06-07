@@ -1,0 +1,71 @@
+INTRODUCTION TO ETHEREUM-
+->Ethereum is a decentralized system, which means it is not regulated by any government authority.
+->Majority of online services, businesses, and companies are based on the centralized government system.
+->This approach has been applied for centuries.
+->Such centralized approach means full control of a single entity and that's why the apps and servers based on this system are extremely vulnerable to hacker attacks and even power cuts.
+->Personal information may be easily stolen right from there by the same company, its untrustworthy employees, or hackers.
+->As a decentralized system, Ethereum is not regulated by anyone
+->As the platform is run with millions of volunteer computers throughout the world, so it cannot get disconnected thereby leaving no scope for failure. 
+
+WORKING-
+->Ethereum is based on the Bitcoin protocol and its Blockchain design and it is adjusted so that applications that are not money systems may be compatible with it. 
+->In addition to the transaction history,each node in the Ethereum network also needs to download the most recent status or current information of each intelligent contract within the network and the balance of each user.
+->Each Ethereum state consists of millions of transactions.
+->These transactions are grouped to form 'blocks', with each block chained together with their previous blocks. 
+->But before the transaction can be added to the ledger,it needs to be validated through a process called mining.
+->Mining is a process in which a group of nodes applies its computing power to complete a 'proof of work' challenge.
+->'The more powerful your computer is, the quicker you can solve the puzzle.'
+->Many miners from all over the world compete with each other in an attempt to create and validate a block.
+->And since each time a miner tries a block, new tokens from Ether (ETH) are generated and given to that miner.
+->The miners are a backbone of the Ethereum network, as they not only confirm and validate transactions and any other operation within the network, but also generate new tokens of the network's currency.
+
+APPLICATIONS OF EHTEREUM-
+->First, Ethereum allows developers to build and deploy decentralized applications & any centralized service can be decentralized using the Ethereum platform. 
+->Decentralized applications have the potential to change the relationship between companies and their audiences completely. 
+->The Ethereum Blockchain can allow customers to trace the origins of the product they are buying.
+->The implementation of intelligent contracts can guarantee a safe and fast exchange for both parties without any intermediary.
+->Ethereum can also be used to create Decentralized Autonomous Organizations (DAO’s), which operate in a completely transparent manner and independently of any intervention, without a leader as such.
+->The DAO’s are executed by programming code and a collection of intelligent contracts written in Blockchain. 
+->It is designed to eliminate the need for a person or a group of people to fully and centrally control an organization.
+
+PRO'S OF ETHEREUM- 
+->It is completely immune to third-party interventions, which means that all decentralized applications and DAOs deployed within the network cannot be controlled by anyone at all.
+->Any Blockchain network is formed around a consensus principle, which means that all nodes within the system must agree on every change that takes place within it. 
+->This eliminates the possibilities of fraud, corruption and makes the network inviolable.
+->The whole platform is decentralized, which means that there is not a single possible point of failure. 
+->All applications will always remain online and will never be turned off. 
+->The decentralized nature and cryptographic security make the Ethereum network well protected against possible hacking attacks and fraudulent activities.
+
+CON'S OF ETHEREUM-
+->Although smart contracts are designed to make the network fail-proof,they can only be as good as the people who write their code. 
+->There is always room for human error, and any error in the code could be exploited. 
+->If that happens, there is no direct way to stop an attack by hackers or exploitation of that error. 
+->The only possible way to do this would be to reach a consensus and rewrite an underlying code.
+-> However, this goes completely against the very essence of Blockchain, since it is supposed to be an immutable ledger.
+
+ETHEREUM vs. BITCOIN-
+->Bitcoin was launched in 2009 as the first cryptocurrency ever, with a single goal to create a universal decentralized currency.
+->This currency would not require any intermediary financial institution, but would still guarantee safe and valid transactions.
+->This was possible thanks to a revolutionary technology called blockchain.
+->Similar to Bitcoin, Ethereum is a distributed public blockchain network.
+->While Ethereum and Bitcoin are both cryptocurrencies that can be mined or exchanged between users, there are many differences between the two.
+->Ethereum took the technology behind Bitcoin and substantially expanded its capabilities. 
+->It is a complete network with its own Internet browser, coding language and payment system.
+->The most important thing is that it allows users to create decentralized applications in Ethereum Blockchain.
+->Ethereum is a decentralized system, which means that it uses a peer-to-peer approach.
+->Each individual interaction occurs between and is admitted only by the users that participate in it, without the intervention of any regulatory authority.
+->The entire Ethereum system is backed by a global system of nodes. 
+->The nodes are volunteers that download the Ethereum Blockchain to their computers and enforce all the consensus rules of the system, keeping the network fair and receiving rewards in return.
+
+WAYS TO GET ETHER(ETH)-
+->The most common and perhaps the most convenient way to buy Ether is by buying it on an exchange.
+->All you need to do is find an exchange that sells Ether and operates within your jurisdiction, set up an account and use either your bank account or bank transfer. 
+->Those should be stored in a wallet, which can be provided by the exchange itself, the native Mist browser of Ethereum, or by other specialized services.
+->Another way to obtain Ether tokens (ETH) is by mining them. 
+->Ethereum mining involves proof-of-work, which means that the miners contribute their computing power to solving complex mathematical problems in order to seal and confirm a block of actions within the network. 
+->Miners who successfully complete this task receive a reward for each block they mined.
+
+In conclusion,
+->Ethereum is a distributed, public, open source software platform based on Blockchain that allows developers to build and implement decentralized application.
+->Ethereum mining has become much more complicated and requires expensive equipment to generate a perceptible income.
+->The physical possession of Ether, as well as other cryptos, carry certain complexities and risks which much be evaluated properly before taking any decisions.
